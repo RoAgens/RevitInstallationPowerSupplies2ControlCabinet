@@ -1,0 +1,10 @@
+E:\Тестовое задание\EESetUp\bin\Debug\EESetUp.dll
+E:\Тестовое задание\EESetUp\bin\Debug\EESetUp.pdb
+E:\Тестовое задание\EESetUp\obj\Debug\UserWin.g.cs
+E:\Тестовое задание\EESetUp\obj\Debug\EESetUp_MarkupCompile.cache
+E:\Тестовое задание\EESetUp\obj\Debug\EESetUp_MarkupCompile.lref
+E:\Тестовое задание\EESetUp\obj\Debug\UserWin.baml
+E:\Тестовое задание\EESetUp\obj\Debug\EESetUp.g.resources
+E:\Тестовое задание\EESetUp\obj\Debug\EESetUp.csproj.CoreCompileInputs.cache
+E:\Тестовое задание\EESetUp\obj\Debug\EESetUp.dll
+E:\Тестовое задание\EESetUp\obj\Debug\EESetUp.pdb

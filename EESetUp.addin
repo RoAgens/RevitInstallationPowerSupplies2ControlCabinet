@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>Command EESetUp</Text>
+    <Description>Some description for EESetUp</Description>
+    <Assembly>EESetUp.dll</Assembly>
+    <FullClassName>EESetUp.Command</FullClassName>
+    <ClientId>64a5476f-3abc-4a18-9843-12c08fc2a85a</ClientId>
+    <VendorId>com.typepad.thebuildingcoder</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>
+  <AddIn Type="Application">
+    <Name>Application EESetUp</Name>
+    <Assembly>EESetUp.dll</Assembly>
+    <FullClassName>EESetUp.App</FullClassName>
+    <ClientId>6980dab4-8cf5-4ac0-9d8b-797ce2de682c</ClientId>
+    <VendorId>com.typepad.thebuildingcoder</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>

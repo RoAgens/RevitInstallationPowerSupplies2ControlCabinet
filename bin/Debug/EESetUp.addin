@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>External Tool</Name>
+    <Assembly>EESetUp.dll</Assembly>
+    <ClientId>4b9c283c-f9bb-443e-8c54-a7e254988b15</ClientId>
+    <FullClassName>EESetUp.App</FullClassName>
+    <VendorId>ADSK</VendorId>
+    <VendorDescription>Autodesk, www.autodesk.com</VendorDescription>
+  </AddIn>
+  <AddIn Type="Command">
+    <Assembly>EESetUp.dll</Assembly>
+    <ClientId>cc182f4a-fab0-4ef5-acfd-cf28ba788b4c</ClientId>
+    <FullClassName>EESetUp.Command</FullClassName>
+    <Text>Command</Text>
+    <Description>""</Description>
+    <VisibilityMode>AlwaysVisible</VisibilityMode>
+    <VendorId>ADSK</VendorId>
+    <VendorDescription>Autodesk, www.autodesk.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>
